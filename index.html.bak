@@ -56,12 +56,13 @@
               <h2 class="heading">About Me</h2>
               <div class="content">
                 <p>I am a communicator, a professor, a lover of photography,
-                  film and the balanced good life. It's good to see you on this
-                  site.&nbsp; Please connect with me via LinkedIn, Email, or
-                  Skype/Zoom chat if you wish to discuss anything. </p>
+                  film and the balanced good life. It's good to see
+                  you on this site.&nbsp; Please connect with me via LinkedIn,
+                  Email, or Skype/Zoom chat if you wish to discuss anything. </p>
               </div>
               <!--//content--> </div>
             <!--//section-inner--> </section>
+        
           <!--//section-->
           <section class="experience section">
             <div class="section-inner shadow-sm rounded">
@@ -248,13 +249,13 @@
                     <span class="level">Native Speaker <br class="visible-sm visible-xs">
                       <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i
 
-                                                                                 class="fas fa-star"></i> <i class="fas fa-star"></i><i class="fas fa-star"></i></span>
+                        class="fas fa-star"></i> <i class="fas fa-star-half"></i></span>
                   </li>
                   <li class="item"> <span class="title"><strong>Punjabi:</strong></span>
                     <span class="level">Native Speaker <br class="visible-sm visible-xs">
                       <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i
 
-                        class="fas fa-star"></i><i class="fas fa-star"></i> <i class="fas fa-star"></i></span>
+                        class="fas fa-star"></i> <i class="fas fa-star-half"></i></span>
                   </li>
                   <!--//item-->
                   <!--//item-->
