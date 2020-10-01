@@ -139,222 +139,221 @@
                 <!--//item--></div>
               <!--//content--> </div>
             <!--//section-inner--> </section>
-          <!--//section-inner-->
-          <!--//aside-->
-          <div class="secondary col-md-4 col-sm-12 col-xs-12">
-            <aside class="info aside section">
-              <div class="section-inner">
-                <h2 class="heading sr-only">Basic Information</h2>
-                <div class="content">
-                  <ul class="list-unstyled">
-                    <li><i class="fa fa-map-marker"></i><span class="sr-only">Location:</span>Brampton,
-                      Ontario, Canada</li>
-                    <li><span class="sr-only">Email:</span><a href="mailto:ravinderkalra@gmail.com?Subject=Hello%20there">ravinderkalra@gmail.com</a></li>
-                    <li><i class="fa fa-link"></i><span class="sr-only">Website:</span><a
+          <!--//section-inner--> </div>
+        <!--//secton-inner--> </div>
+      <!--//primary-->
+      <!--//aside-->
+      <div class="secondary col-lg-4 col-12 ">
+        <aside class="info aside section">
+          <div class="section-inner">
+            <h2 class="heading sr-only">Basic Information</h2>
+            <div class="content">
+              <ul class="list-unstyled">
+                <li><i class="fa fa-map-marker"></i><span class="sr-only">Location:</span>Brampton,
+                  Ontario, Canada</li>
+                <li><span class="sr-only">Email:</span><a href="mailto:ravinderkalra@gmail.com?Subject=Hello%20there">ravinderkalra@gmail.com</a></li>
+                <li><i class="fa fa-link"></i><span class="sr-only">Website:</span><a
 
-                        href="#">profkalra.com</a></li>
-                    <li><i class="fa fa-camera" aria-hidden="true"></i><span class="sr-only">Portfolio:</span><a
+                    href="#">profkalra.com</a></li>
+                <li><i class="fa fa-camera" aria-hidden="true"></i><span class="sr-only">Portfolio:</span><a
 
-                        href="https://photos.profkalra.com/">photos.profkalra.com</a></li>
-                  </ul>
-                </div>
-                <!--//content--> </div>
-              <!--//section-inner--> </aside>
-            <!--//aside-->
-            <aside class="skills aside section">
-              <div class="section-inner shadow-sm rounded">
-                <h2 class="heading">Skills</h2>
-                <div class="content">
-                  <div class="skillset">
-                    <div class="item">
-                      <h3 class="level-title">Corporate Communication<span class="level-label"
+                    href="https://photos.profkalra.com/">photos.profkalra.com</a></li>
+              </ul>
+            </div>
+            <!--//content--> </div>
+          <!--//section-inner--> </aside>
+        <!--//aside-->
+        <aside class="skills aside section">
+          <div class="section-inner shadow-sm rounded">
+            <h2 class="heading">Skills</h2>
+            <div class="content">
+              <div class="skillset">
+                <div class="item">
+                  <h3 class="level-title">Corporate Communication<span class="level-label"
 
-                          data-toggle="tooltip" data-placement="left" data-animation="true"
+                      data-toggle="tooltip" data-placement="left" data-animation="true"
 
-                          title="You can use the tooltip to explain more about your skill level...">Expert</span></h3>
-                      <div class="level-bar">
-                        <div class="level-bar-inner" data-level="96%"> </div>
-                      </div>
-                      <!--//level-bar--> </div>
-                    <!--//item-->
-                    <div class="item">
-                      <h3 class="level-title">Organizational Behaviour<span class="level-label"
-
-                          data-toggle="tooltip" data-placement="left" data-animation="true"
-
-                          title="You can use the tooltip to explain more about your skill level...">Expert</span></h3>
-                      <div class="level-bar">
-                        <div class="level-bar-inner" data-level="96%"> </div>
-                      </div>
-                      <!--//level-bar--> </div>
-                    <!--//item-->
-                    <div class="item">
-                      <h3 class="level-title">Marketing<span class="level-label"
-
-                          data-toggle="tooltip" data-placement="left" data-animation="true"
-
-                          title="You can use the tooltip to explain more about your skill level...">Expert</span></h3>
-                      <div class="level-bar">
-                        <div class="level-bar-inner" data-level="96%"> </div>
-                      </div>
-                      <!--//level-bar--> </div>
-                    <!--//item-->
-                    <div class="item">
-                      <h3 class="level-title">Photography and Film<span class="level-label"
-
-                          data-toggle="tooltip" data-placement="left" data-animation="true"
-
-                          title="You can use the tooltip to explain more about your skill level...">Pro</span></h3>
-                      <div class="level-bar">
-                        <div class="level-bar-inner" data-level="85%"> </div>
-                      </div>
-                      <!--//level-bar--> </div>
-                    <!--//item--> </div>
-                </div>
-                <!--//content--> </div>
-              <!--//section-inner--> </aside>
-            <!--//section-->
-            <aside class="testimonials aside section">
-              <div class="section-inner shadow-sm rounded">
-                <h2 class="heading">Testimonials</h2>
-                <div class="content">
-                  <div class="item">
-                    <blockquote class="quote">
-                      <p>Ravinder is an excellent professor and he is passionate
-                        about what he does. You can totally count on him to
-                        deliver your projects!</p>
-                    </blockquote>
-                    <p class="source"><span class="name">Tim Adams</span><br>
-                    </p>
+                      title="You can use the tooltip to explain more about your skill level...">Expert</span></h3>
+                  <div class="level-bar">
+                    <div class="level-bar-inner" data-level="96%"> </div>
                   </div>
-                  <!--//item-->
-                  <p><a class="more-link" href="#"><i class="fas fa-external-link-alt"></i>More
-                      on Linkedin</a></p>
-                </div>
-                <!--//content--> </div>
-              <!--//section-inner--> </aside>
-            <!--//section-->
-            <aside class="education aside section">
-              <div class="section-inner shadow-sm rounded">
-                <h2 class="heading">Education</h2>
-                <div class="content">
-                  <div class="item">
-                    <h3 class="title"> MBA Marketing, Finance</h3>
-                    <h4 class="university">Punjab Agricultural University <span
+                  <!--//level-bar--> </div>
+                <!--//item-->
+                <div class="item">
+                  <h3 class="level-title">Organizational Behaviour<span class="level-label"
 
-                        class="year">(1989-1992)</span></h4>
+                      data-toggle="tooltip" data-placement="left" data-animation="true"
+
+                      title="You can use the tooltip to explain more about your skill level...">Expert</span></h3>
+                  <div class="level-bar">
+                    <div class="level-bar-inner" data-level="96%"> </div>
                   </div>
-                  <!--//item-->
-                  <div class="item">
-                    <h3 class="title"> BEng Mechanical Engineering</h3>
-                    <h4 class="university">The Institution of Engineers, India <span
+                  <!--//level-bar--> </div>
+                <!--//item-->
+                <div class="item">
+                  <h3 class="level-title">Marketing<span class="level-label" data-toggle="tooltip"
 
-                        class="year">(1986-1988)</span></h4>
+                      data-placement="left" data-animation="true" title="You can use the tooltip to explain more about your skill level...">Expert</span></h3>
+                  <div class="level-bar">
+                    <div class="level-bar-inner" data-level="96%"> </div>
                   </div>
-                  <!--//item--> </div>
-                <!--//content--> </div>
-              <!--//section-inner--> </aside>
-            <!--//section-->
-            <aside class="languages aside section">
-              <div class="section-inner shadow-sm rounded">
-                <h2 class="heading">Languages</h2>
-                <div class="content">
-                  <ul class="list-unstyled">
-                    <li class="item"> <span class="title"><strong>English:</strong></span>
-                      <span class="level">Native Speaker <br class="visible-xs">
-                        <i class="fas fa-star"></i> <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i> <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i> </span> </li>
-                    <!--//item-->
-                    <li class="item"> <span class="title"><strong>Hindi:</strong></span>
-                      <span class="level">Native Speaker <br class="visible-sm visible-xs">
-                        <i class="fas fa-star"></i> <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i> <i class="fas fa-star"></i><i
+                  <!--//level-bar--> </div>
+                <!--//item-->
+                <div class="item">
+                  <h3 class="level-title">Photography and Film<span class="level-label"
 
-                          class="fas fa-star"></i></span> </li>
-                    <li class="item"> <span class="title"><strong>Punjabi:</strong></span>
-                      <span class="level">Native Speaker <br class="visible-sm visible-xs">
-                        <i class="fas fa-star"></i> <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i><i class="fas fa-star"></i> <i
+                      data-toggle="tooltip" data-placement="left" data-animation="true"
 
-                          class="fas fa-star"></i></span> </li>
-                    <!--//item-->
-                    <!--//item-->
-                  </ul>
-                </div>
-                <!--//content--> </div>
-              <!--//section-inner--> </aside>
-            <!--//section-->
-            <aside class="blog aside section">
-              <div class="section-inner shadow-sm rounded">
-                <h2 class="heading">Latest Blog Posts</h2>
-                <p>You can use Sascha Depold's <a href="https://github.com/sdepold/jquery-rss"
+                      title="You can use the tooltip to explain more about your skill level...">Pro</span></h3>
+                  <div class="level-bar">
+                    <div class="level-bar-inner" data-level="85%"> </div>
+                  </div>
+                  <!--//level-bar--> </div>
+                <!--//item--> </div>
+            </div>
+            <!--//content--> </div>
+          <!--//section-inner--> </aside>
+        <!--//section-->
+        <aside class="testimonials aside section">
+          <div class="section-inner shadow-sm rounded">
+            <h2 class="heading">Testimonials</h2>
+            <div class="content">
+              <div class="item">
+                <blockquote class="quote">
+                  <p>Ravinder is an excellent professor and he is passionate
+                    about what he does. You can totally count on him to deliver
+                    your projects!</p>
+                </blockquote>
+                <p class="source"><span class="name">Tim Adams</span><br>
+                </p>
+              </div>
+              <!--//item-->
+              <p><a class="more-link" href="#"><i class="fas fa-external-link-alt"></i>More
+                  on Linkedin</a></p>
+            </div>
+            <!--//content--> </div>
+          <!--//section-inner--> </aside>
+        <!--//section-->
+        <aside class="education aside section">
+          <div class="section-inner shadow-sm rounded">
+            <h2 class="heading">Education</h2>
+            <div class="content">
+              <div class="item">
+                <h3 class="title"> MBA Marketing, Finance</h3>
+                <h4 class="university">Punjab Agricultural University <span class="year">(1989-1992)</span></h4>
+              </div>
+              <!--//item-->
+              <div class="item">
+                <h3 class="title"> BEng Mechanical Engineering</h3>
+                <h4 class="university">The Institution of Engineers, India <span
 
-                    target="_blank">jQuery RSS plugin</a> to pull in your blog
-                  post feeds.</p>
-                <div id="rss-feeds" class="content"> </div>
-                <!--//content--> </div>
-              <!--//section-inner--> </aside>
-            <!--//section-->
-            <aside class="list music aside section">
-              <div class="section-inner shadow-sm rounded">
-                <h2 class="heading">Favourite Music/Hobbies/Interests</h2>
-                <div class="content">
-                  <ul class="list-unstyled">
-                    <li><i class="fas fa-headphones"></i> <a href="#">-Majnun
-                        Ghazals<br>
-                      </a></li>
-                    <li> <a href="#">-Old is Gold Bollywood</a></li>
-                    <li>&nbsp;<span style="color: #778492;">-Kajra Re<br>
-                      </span></li>
-                    <li>&nbsp;<span style="color: #778492;">-Shabad Kirtan</span></li>
-                    <li><span style=" color: #778492;">-Mangoes</span></li>
-                    <li><span style="  color: #778492;">-Kulfi Faluda
-                        Crystallization Processes</span></li>
-                    <li><span style="   color: #778492;">-Film and Photography<br>
-                      </span></li>
-                  </ul>
-                </div>
-                <!--//content--> </div>
-              <!--//section-inner--> </aside>
-            <!--//section-->
-            <aside class="list conferences aside section">
-              <div class="section-inner shadow-sm rounded">
-                <h2 class="heading">Conferences Attended</h2>
-                <div class="content">
-                  <ul class="list-unstyled">
-                    <li>&nbsp; SenaStart (Toronto)</li>
-                    <li>&nbsp; Hive (Seattle)</li>
-                  </ul>
-                </div>
-                <!--//content--> </div>
-              <!--//section-inner--> </aside>
-            <!--//section-->
-            <!--//section-inner-->
-            <!--//section--> </div>
-          <!--//secondary--> </div>
-        <!--//row--> </div>
-      <!--//masonry-->
-      <!-- ******FOOTER****** -->
-      <footer class="footer">
-        <div class="container text-center">
-          <!--/* This template is free as long as you keep the attribution link below. Thank you for your support. :) If you'd like to use the template without the attribution, you can buy the commercial license via our website: themes.3rdwavemedia.com */-->
-          <small class="copyright">Designed with by <a href="https://themes.3rdwavemedia.com"
+                    class="year">(1986-1988)</span></h4>
+              </div>
+              <!--//item--> </div>
+            <!--//content--> </div>
+          <!--//section-inner--> </aside>
+        <!--//section-->
+        <aside class="languages aside section">
+          <div class="section-inner shadow-sm rounded">
+            <h2 class="heading">Languages</h2>
+            <div class="content">
+              <ul class="list-unstyled">
+                <li class="item"> <span class="title"><strong>English:</strong></span>
+                  <span class="level">Native Speaker <br class="visible-xs">
+                    <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i
 
-              target="_blank">Xiaoying Riley</a> for developers</small> </div>
-        <!--//container--> </footer>
-      <!--//footer-->
-      <!-- Javascript -->
-      <script type="text/javascript" src="assets/plugins/jquery-3.4.1.min.js"></script>
-      <script type="text/javascript" src="assets/plugins/popper.min.js"></script>
-      <script type="text/javascript" src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>
-      <script type="text/javascript" src="assets/plugins/jquery-rss/dist/jquery.rss.min.js"></script>
-      <!-- github calendar plugin -->
-      <script type="text/javascript" src="assets/plugins/github-calendar/dist/github-calendar.min.js"></script>
-      <!-- github activity plugin -->
-      <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/mustache.js/0.7.2/mustache.min.js"></script>
-      <script type="text/javascript" src="assets/plugins/github-activity/github-activity-0.1.5.min.js"></script>
-      <!-- custom js -->
-      <script type="text/javascript" src="assets/js/main.js"></script> </div>
+                      class="fas fa-star"></i> <i class="fas fa-star"></i> <i
+
+                      class="fas fa-star"></i> </span> </li>
+                <!--//item-->
+                <li class="item"> <span class="title"><strong>Hindi:</strong></span>
+                  <span class="level">Native Speaker <br class="visible-sm visible-xs">
+                    <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i
+
+                      class="fas fa-star"></i> <i class="fas fa-star"></i><i class="fas fa-star"></i></span>
+                </li>
+                <li class="item"> <span class="title"><strong>Punjabi:</strong></span>
+                  <span class="level">Native Speaker <br class="visible-sm visible-xs">
+                    <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i
+
+                      class="fas fa-star"></i><i class="fas fa-star"></i> <i class="fas fa-star"></i></span>
+                </li>
+                <!--//item-->
+                <!--//item-->
+              </ul>
+            </div>
+            <!--//content--> </div>
+          <!--//section-inner--> </aside>
+        <!--//section-->
+        <aside class="blog aside section">
+          <div class="section-inner shadow-sm rounded">
+            <h2 class="heading">Latest Blog Posts</h2>
+            <p>You can use Sascha Depold's <a href="https://github.com/sdepold/jquery-rss"
+
+                target="_blank">jQuery RSS plugin</a> to pull in your blog
+              post feeds.</p>
+            <!--//content--> </div>
+          <!--//section-inner--> </aside>
+        <!--//section-->
+        <aside class="list music aside section">
+          <div class="section-inner shadow-sm rounded">
+            <h2 class="heading">Favourite Music/Hobbies/Interests</h2>
+            <div class="content">
+              <ul class="list-unstyled">
+                <li><i class="fas fa-headphones"></i> <a href="#">-Majnun
+                    Ghazals<br>
+                  </a></li>
+                <li> <a href="#">-Old is Gold Bollywood</a></li>
+                <li>&nbsp;<span style="color: #778492;">-Kajra Re<br>
+                  </span></li>
+                <li>&nbsp;<span style="color: #778492;">-Shabad Kirtan</span></li>
+                <li><span style=" color: #778492;">-Mangoes</span></li>
+                <li><span style="  color: #778492;">-Kulfi Faluda
+                    Crystallization Processes</span></li>
+                <li><span style="   color: #778492;">-Film and Photography<br>
+                  </span></li>
+              </ul>
+            </div>
+            <!--//content--> </div>
+          <!--//section-inner--> </aside>
+        <!--//section-->
+        <aside class="list conferences aside section">
+          <div class="section-inner shadow-sm rounded">
+            <h2 class="heading">Conferences Attended</h2>
+            <div class="content">
+              <ul class="list-unstyled">
+                <li>&nbsp; SenaStart (Toronto)</li>
+                <li>&nbsp; Hive (Seattle)</li>
+              </ul>
+            </div>
+            <!--//content--> </div>
+          <!--//section-inner--> </aside>
+        <!--//section-->
+        <!--//section-inner-->
+        <!--//section--> </div>
+      <!--//secondary--> </div>
+    <!--//row-->
+    <!--//masonry-->
+    <!-- ******FOOTER****** -->
+    <footer class="footer">
+      <div class="container text-center">
+        <!--/* This template is free as long as you keep the attribution link below. Thank you for your support. :) If you'd like to use the template without the attribution, you can buy the commercial license via our website: themes.3rdwavemedia.com */-->
+        <small class="copyright">Designed with by <a href="https://themes.3rdwavemedia.com"
+
+            target="_blank">Xiaoying Riley</a> for developers</small> </div>
+      <!--//container--> </footer>
+    <!--//footer-->
+    <!-- Javascript -->
+    <script type="text/javascript" src="assets/plugins/jquery-3.4.1.min.js"></script>
+    <script type="text/javascript" src="assets/plugins/popper.min.js"></script>
+    <script type="text/javascript" src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="assets/plugins/jquery-rss/dist/jquery.rss.min.js"></script>
+    <!-- github calendar plugin -->
+    <script type="text/javascript" src="assets/plugins/github-calendar/dist/github-calendar.min.js"></script>
+    <!-- github activity plugin -->
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/mustache.js/0.7.2/mustache.min.js"></script>
+    <script type="text/javascript" src="assets/plugins/github-activity/github-activity-0.1.5.min.js"></script>
+    <!-- custom js -->
+    <script type="text/javascript" src="assets/js/main.js"></script>
   </body>
 </html>
